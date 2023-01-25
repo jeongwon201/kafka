@@ -23,3 +23,8 @@ Zookeeper 컨테이너와 Kafka 컨테이너로 구성합니다.
 해당 예제는 **CentOS 7**을 기준으로 설명합니다.   
 > CentOS 7 Docker 환경을 구성하려면 다음 링크를 참고하세요.   
 > <a href="">CentOS 7, Docker 환경 구성</a>
+<br />
+
+CentOS 7, Docker 환경이 구성되었다면 다음 링크로 이동하세요.   
+<a href="https://github.com/jeongwon201/kafka/tree/main/kafka-using-docker/single-node">단일 Kafka 브로커 구성하기</a>   
+<a href="https://github.com/jeongwon201/kafka/tree/main/kafka-using-docker/multi-node">멀티 Kafka 브로커 구성하기</a>
