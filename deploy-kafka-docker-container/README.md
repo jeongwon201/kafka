@@ -78,7 +78,7 @@ services:
 - `KAFKA_ADVERTISED_LISTENERS`
     - 컨테이너 외부에서 접속할 포트를 설정합니다.
 - `KAFKA_LISTENER_SECURITY_PROTOCOL_MAP`
-    - Kafka 와 연동할 Zookeeper 를 설정합니다.
+    - Kafka 리스너와 보안 프로토콜을 매핑합니다.
 - `KAFKA_INTER_BROKER_LISTENER_NAME`
     - Kafka 브로커 간 통신에 사용할 리스너를 설정합니다.
 - `KAFKA_OFFSETS_TOPIC_REPLICATION_FACTOR`
