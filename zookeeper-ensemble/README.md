@@ -30,7 +30,7 @@ Zookeeper 와 Kafka 컨테이너를 빠르게 구성하기 위해 **Docker Compo
 **Zookeeper Ensemble** 이란 Zookeeper 를 클러스터링하여 구성한 방식을 말합니다.   
 
 <div align="center">
-  <img src="img/img.png" width="300px"/>
+  <img src="img/img.png" width="700px"/>
 </div>
 <br />
 <br />
