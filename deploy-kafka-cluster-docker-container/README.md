@@ -27,7 +27,7 @@ Zookeeper 와 Kafka 컨테이너를 빠르게 구성하기 위해 **Docker Compo
 
 ## Kafka Cluster 란?
 
-여러 Kafka Broker 가 서로 네트워크를 구성하여 Cluster 를 형성한 것을 **Kafka Cluster** 라고 합니다.   
+여러 대의 Kafka Broker 가 클러스터를 형성한 것을 **Kafka Cluster** 라고 합니다.   
 <br />
 <br />
 <div align="center">
@@ -46,7 +46,7 @@ Kafka Cluster 를 구성하게되면 부하를 방지하거나, 레플리케이�
 <br />
 <br />
 
-Apache Kafka 에서는 Kafka Cluster 구성 시 최소 3 개의 Kafka Broker 로 구성하는 것을 권장합니다.   
+Apache Kafka 에서는 Kafka Cluster 구성 시 홀수 개 및 최소 3 개 이상의 Kafka Broker 로 구성하는 것을 권장합니다.   
 <br />
 <br />
 <br />
