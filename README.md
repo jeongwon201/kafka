@@ -1,4 +1,4 @@
-# kafka
+# kafka | Apache Kafka
 
 <img align="right" src="https://github.com/jeongwon201/kafka/assets/81132541/5b1cc944-68aa-4f12-bafc-ba62cf6dca64" width="160px"/>
 <h3 align="left">Kafka 학습 자료입니다.</h3>
